@@ -41,7 +41,7 @@ const Watschin = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Watzch&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watzch GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waschin&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watzch top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watschim&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watzch top languages" />
 </div>
 
 <div align="center">
