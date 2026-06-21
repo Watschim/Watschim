@@ -1,6 +1,6 @@
 <div align="center">
   
-  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Watsch;Welcome+to+my+profile)](https://git.io/typing-svg)
+  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Watschin;Welcome+to+my+profile)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://discord.com/users/1115661153448775711">
@@ -9,7 +9,7 @@
     <a href="mailto:Watsch@WarzonNodes.lat">
       <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/Watzch">
+    <a href="https://github.com/Watschim">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
@@ -22,7 +22,7 @@
 </div>
 
 ```javascript
-const Watsch = {
+const Watschin = {
   age: 20,
   location: "Argentina",
   interests: ["Programming", "Game Development", "Technology"],
