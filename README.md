@@ -40,12 +40,12 @@ const Watschin = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watzch&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watzch GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Watschim&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watschim GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watschim&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="Watzch top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Watzch&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=FFFFFF" alt="Activity summary" width="840"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Watschim&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=FFFFFF" alt="Activity summary" width="840"/>
 </div>
 
 ---
